@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D9B1CD-01E0-4E49-9640-8E9D14FB86A9}|Bio.Api\\Bio.Api.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.api\\controllers\\certificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D9B1CD-01E0-4E49-9640-8E9D14FB86A9}|Bio.Api\\Bio.Api.csproj|solutionrelative:bio.api\\controllers\\certificatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A1D82-0E1D-403E-B446-EEF51518790E}|Bio.Domain\\Bio.Domain.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.domain\\enums\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A1D82-0E1D-403E-B446-EEF51518790E}|Bio.Domain\\Bio.Domain.csproj|solutionrelative:bio.domain\\enums\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D9B1CD-01E0-4E49-9640-8E9D14FB86A9}|Bio.Api\\Bio.Api.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D9B1CD-01E0-4E49-9640-8E9D14FB86A9}|Bio.Api\\Bio.Api.csproj|solutionrelative:bio.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A1D82-0E1D-403E-B446-EEF51518790E}|Bio.Domain\\Bio.Domain.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.domain\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A1D82-0E1D-403E-B446-EEF51518790E}|Bio.Domain\\Bio.Domain.csproj|solutionrelative:bio.domain\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.application\\dtos\\jobpost\\jobpostfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|solutionrelative:bio.application\\dtos\\jobpost\\jobpostfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D9B1CD-01E0-4E49-9640-8E9D14FB86A9}|Bio.Api\\Bio.Api.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.api\\controllers\\jobpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D9B1CD-01E0-4E49-9640-8E9D14FB86A9}|Bio.Api\\Bio.Api.csproj|solutionrelative:bio.api\\controllers\\jobpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.application\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|solutionrelative:bio.application\\services\\jobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E862-F26D-4191-9706-DD8A76A2B985}|Bio.Infrastructure\\Bio.Infrastructure.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.infrastructure\\persistence\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E862-F26D-4191-9706-DD8A76A2B985}|Bio.Infrastructure\\Bio.Infrastructure.csproj|solutionrelative:bio.infrastructure\\persistence\\repositories\\jobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|solutionrelative:bio.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40A1D82-0E1D-403E-B446-EEF51518790E}|Bio.Domain\\Bio.Domain.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.domain\\repositories\\ijobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40A1D82-0E1D-403E-B446-EEF51518790E}|Bio.Domain\\Bio.Domain.csproj|solutionrelative:bio.domain\\repositories\\ijobpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.application\\interfaces\\ijobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|solutionrelative:bio.application\\interfaces\\ijobpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E862-F26D-4191-9706-DD8A76A2B985}|Bio.Infrastructure\\Bio.Infrastructure.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.infrastructure\\persistence\\repositories\\dashboardcompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E862-F26D-4191-9706-DD8A76A2B985}|Bio.Infrastructure\\Bio.Infrastructure.csproj|solutionrelative:bio.infrastructure\\persistence\\repositories\\dashboardcompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.application\\services\\dashboardcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|solutionrelative:bio.application\\services\\dashboardcompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D9B1CD-01E0-4E49-9640-8E9D14FB86A9}|Bio.Api\\Bio.Api.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.api\\controllers\\dashboardcompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D9B1CD-01E0-4E49-9640-8E9D14FB86A9}|Bio.Api\\Bio.Api.csproj|solutionrelative:bio.api\\controllers\\dashboardcompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE890074-C7A2-485D-89F8-5C9AD1007F99}|Bio.Application\\Bio.Application.csproj|solutionrelative:bio.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E862-F26D-4191-9706-DD8A76A2B985}|Bio.Infrastructure\\Bio.Infrastructure.csproj|d:\\web projeleri\\.net projeleri\\bal\u0131kesirproject\\backend\\bioprojectbackend\\bio.infrastructure\\persistence\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E862-F26D-4191-9706-DD8A76A2B985}|Bio.Infrastructure\\Bio.Infrastructure.csproj|solutionrelative:bio.infrastructure\\persistence\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CertificatesController.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Api\\Controllers\\CertificatesController.cs",
+              "RelativeDocumentMoniker": "Bio.Api\\Controllers\\CertificatesController.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Api\\Controllers\\CertificatesController.cs",
+              "RelativeToolTip": "Bio.Api\\Controllers\\CertificatesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:25:16.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExperienceLevel.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Domain\\Enums\\ExperienceLevel.cs",
+              "RelativeDocumentMoniker": "Bio.Domain\\Enums\\ExperienceLevel.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Domain\\Enums\\ExperienceLevel.cs",
+              "RelativeToolTip": "Bio.Domain\\Enums\\ExperienceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:43:47.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobType.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Domain\\Enums\\JobType.cs",
+              "RelativeDocumentMoniker": "Bio.Domain\\Enums\\JobType.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Domain\\Enums\\JobType.cs",
+              "RelativeToolTip": "Bio.Domain\\Enums\\JobType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:50:15.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPostFilterDto.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Dtos\\JobPost\\JobPostFilterDto.cs",
+              "RelativeDocumentMoniker": "Bio.Application\\Dtos\\JobPost\\JobPostFilterDto.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Dtos\\JobPost\\JobPostFilterDto.cs",
+              "RelativeToolTip": "Bio.Application\\Dtos\\JobPost\\JobPostFilterDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:47:32.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Bio.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Bio.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwD8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:30:04.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJobPostRepository.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Domain\\Repositories\\IJobPostRepository.cs",
+              "RelativeDocumentMoniker": "Bio.Domain\\Repositories\\IJobPostRepository.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Domain\\Repositories\\IJobPostRepository.cs",
+              "RelativeToolTip": "Bio.Domain\\Repositories\\IJobPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:25:18.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardCompanyRepository.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Infrastructure\\Persistence\\Repositories\\DashboardCompanyRepository.cs",
+              "RelativeDocumentMoniker": "Bio.Infrastructure\\Persistence\\Repositories\\DashboardCompanyRepository.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Infrastructure\\Persistence\\Repositories\\DashboardCompanyRepository.cs",
+              "RelativeToolTip": "Bio.Infrastructure\\Persistence\\Repositories\\DashboardCompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:01:48.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardCompanyService.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Services\\DashboardCompanyService.cs",
+              "RelativeDocumentMoniker": "Bio.Application\\Services\\DashboardCompanyService.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Services\\DashboardCompanyService.cs",
+              "RelativeToolTip": "Bio.Application\\Services\\DashboardCompanyService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:01:03.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardCompaniesController.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Api\\Controllers\\DashboardCompaniesController.cs",
+              "RelativeDocumentMoniker": "Bio.Api\\Controllers\\DashboardCompaniesController.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Api\\Controllers\\DashboardCompaniesController.cs",
+              "RelativeToolTip": "Bio.Api\\Controllers\\DashboardCompaniesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:00:58.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobPostRepository.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Infrastructure\\Persistence\\Repositories\\JobPostRepository.cs",
+              "RelativeDocumentMoniker": "Bio.Infrastructure\\Persistence\\Repositories\\JobPostRepository.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Infrastructure\\Persistence\\Repositories\\JobPostRepository.cs",
+              "RelativeToolTip": "Bio.Infrastructure\\Persistence\\Repositories\\JobPostRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:41:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobPostsController.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Api\\Controllers\\JobPostsController.cs",
+              "RelativeDocumentMoniker": "Bio.Api\\Controllers\\JobPostsController.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Api\\Controllers\\JobPostsController.cs",
+              "RelativeToolTip": "Bio.Api\\Controllers\\JobPostsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:40:09.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJobPostService.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Interfaces\\IJobPostService.cs",
+              "RelativeDocumentMoniker": "Bio.Application\\Interfaces\\IJobPostService.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Interfaces\\IJobPostService.cs",
+              "RelativeToolTip": "Bio.Application\\Interfaces\\IJobPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:38:57.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobPostService.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Services\\JobPostService.cs",
+              "RelativeDocumentMoniker": "Bio.Application\\Services\\JobPostService.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Services\\JobPostService.cs",
+              "RelativeToolTip": "Bio.Application\\Services\\JobPostService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:33:43.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "04a7fbb3-7534-4c66-8250-c69c649bdd2e",
+        "Display": 1,
+        "X": 446,
+        "Y": 312,
+        "Width": 1479,
+        "Height": 725,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Infrastructure\\Persistence\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Bio.Infrastructure\\Persistence\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Infrastructure\\Persistence\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "Bio.Infrastructure\\Persistence\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wCEAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:25:44.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Bio.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Bio.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:44:56.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Bio.Application\\Services\\CompanyService.cs",
+              "ToolTip": "D:\\web projeleri\\.net projeleri\\Bal\u0131kesirProject\\backend\\BioProjectBackend\\Bio.Application\\Services\\CompanyService.cs",
+              "RelativeToolTip": "Bio.Application\\Services\\CompanyService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv24AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:33:47.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\bin\Debug\net8.0\Bio.Infrastructure.deps.json
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\bin\Debug\net8.0\Bio.Infrastructure.runtimeconfig.json
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\bin\Debug\net8.0\Bio.Infrastructure.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\bin\Debug\net8.0\Bio.Infrastructure.pdb
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\bin\Debug\net8.0\Bio.Domain.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\bin\Debug\net8.0\Bio.Domain.pdb
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infrastructure.csproj.AssemblyReference.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infrastructure.AssemblyInfoInputs.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infrastructure.AssemblyInfo.cs
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infrastructure.csproj.CoreCompileInputs.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infr.0BB80B45.Up2Date
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infrastructure.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\refint\Bio.Infrastructure.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infrastructure.pdb
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\Bio.Infrastructure.genruntimeconfig.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Infrastructure\obj\Debug\net8.0\ref\Bio.Infrastructure.dll

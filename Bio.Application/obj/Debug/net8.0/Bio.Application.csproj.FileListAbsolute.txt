@@ -1,0 +1,15 @@
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\bin\Debug\net8.0\Bio.Application.deps.json
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\bin\Debug\net8.0\Bio.Application.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\bin\Debug\net8.0\Bio.Application.pdb
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\bin\Debug\net8.0\Bio.Domain.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\bin\Debug\net8.0\Bio.Domain.pdb
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\Bio.Application.csproj.AssemblyReference.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\Bio.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\Bio.Application.AssemblyInfoInputs.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\Bio.Application.AssemblyInfo.cs
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\Bio.Application.csproj.CoreCompileInputs.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\Bio.Appl.A07E8857.Up2Date
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\Bio.Application.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\refint\Bio.Application.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\Bio.Application.pdb
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Application\obj\Debug\net8.0\ref\Bio.Application.dll

@@ -1,0 +1,11 @@
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\bin\Debug\net8.0\Bio.Domain.deps.json
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\bin\Debug\net8.0\Bio.Domain.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\bin\Debug\net8.0\Bio.Domain.pdb
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\obj\Debug\net8.0\Bio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\obj\Debug\net8.0\Bio.Domain.AssemblyInfoInputs.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\obj\Debug\net8.0\Bio.Domain.AssemblyInfo.cs
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\obj\Debug\net8.0\Bio.Domain.csproj.CoreCompileInputs.cache
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\obj\Debug\net8.0\Bio.Domain.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\obj\Debug\net8.0\refint\Bio.Domain.dll
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\obj\Debug\net8.0\Bio.Domain.pdb
+D:\web projeleri\.net projeleri\BalıkesirProject\backend\BioProjectBackend\Bio.Domain\obj\Debug\net8.0\ref\Bio.Domain.dll
